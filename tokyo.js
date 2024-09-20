@@ -161,7 +161,7 @@ const Controllers =[{
     sold_green : 'Stock'
 },
 {
-    img: 'https://scontent.fcai21-2.fna.fbcdn.net/v/t39.30808-6/261661245_2153178444830358_2942211827206266201_n.jpg?stp=dst-jpg_s720x720&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=1LZRXFJlUioQ7kNvgGOBqCg&_nc_ht=scontent.fcai21-2.fna&_nc_gid=AUdmgsC8VvgFK_dBMAaC4sP&oh=00_AYA1KTMZr-03swGzjmcrjmGxKMpoc70MsjtiCjOlOMmfJw&oe=66E8D8E8',
+    img: 'https://i0.wp.com/www.pxngame.site/wp-content/uploads/2020/04/PS4-Wireless-Game-Joystick-600x600-1.jpg?fit=600%2C600&ssl=1',
     name : 'PS4 Dualshock 4 Controller Copy',
     price : '650 LE',
     sold_green : 'Stock'
@@ -361,7 +361,7 @@ const Accessories = [{
         img: 'https://m.media-amazon.com/images/I/71ZSFpYxycL._AC_UF1000,1000_QL80_.jpg',
         name: 'Pes 18',
         version: 'Used',
-        price: '850 LE',
+        price: '600 LE',
         sold_red: 'Out of Stock'
     },
     {
