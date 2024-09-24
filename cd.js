@@ -222,6 +222,140 @@ const CD =[{
     price: '700 LE',
     sold_green: 'Stock'
 },
+{
+    img: 'https://m.media-amazon.com/images/I/81RMAekpfBL._AC_UF894,1000_QL80_.jpg',
+    name: 'Injustice: Gods Among Us Ultimate EdInjustice Hits',
+    version: 'Used',
+    price: '600 LE',
+    sold_green: 'Stock'
+},
+{
+    img: 'https://www.eastasiaeg.com/media/catalog/product/cache/7cc761d78ccccdcc12015db63d803651/p/s/ps4-horizon-zero-dawn-complete-edition-hits.gif',
+    name: 'Horizon Zero Dawn Complete Edition HITS',
+    version: 'Used',
+    price: '500 LE',
+    sold_green: 'Stock'
+},
+{
+    img: 'https://i.ebayimg.com/images/g/3mMAAOSwWEZmv7zA/s-l1600.jpg',
+    name: 'FIFA 11',
+    version: 'Used',
+    price: '50 LE',
+    sold_green: 'Stock'
+},
+{
+    img: 'https://i.ebayimg.com/images/g/7D0AAOSwe-FU6Mbd/s-l1600.jpg',
+    name: 'FIFA 12',
+    version: 'Used',
+    price: '50 LE',
+    sold_green: 'Stock'
+},
+{
+    img: 'https://m.media-amazon.com/images/I/81g8W8EsQ0L.jpg',
+    name: 'FIFA 13',
+    version: 'Used',
+    price: '50 LE',
+    sold_green: 'Stock'
+},
+{
+    img: 'https://m.media-amazon.com/images/I/91iT15XWN6L._AC_UF894,1000_QL80_.jpg',
+    name: 'FIFA 15',
+    version: 'Used',
+    price: '50 LE',
+    sold_green: 'Stock'
+},
+{
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2P3LIAIBAjfjo9kHu5TZcHiC63w_qNJwl5g&s',
+    name: 'FIFA 16',
+    version: 'Used',
+    price: '50 LE',
+    sold_green: 'Stock'
+},
+{
+    img: 'https://i.ebayimg.com/images/g/HDoAAOSwLG5gL9Fx/s-l1200.jpg',
+    name: 'NBA 2K10',
+    version: 'Used',
+    price: '50 LE',
+    sold_green: 'Stock'
+},
+
+{
+    img: 'https://m.media-amazon.com/images/I/81iFXOlEjfL._AC_UF894,1000_QL80_.jpg',
+    name: 'PES 14',
+    version: 'Used',
+    price: '50 LE',
+    sold_green: 'Stock'
+},
+{
+    img: 'https://cdn.cimri.io/image/1200x1200/https://cdn.cimri.io/image/200x200/konami-pes-2016-ps3-oyun_895464860.jpg',
+    name: 'PES 16',
+    version: 'Used',
+    price: '50 LE',
+    sold_green: 'Stock'
+},
+{
+    img: 'https://down-my.img.susercontent.com/file/259723e1af7b509fb08683a79eba7323',
+    name: 'Need For Speed Rivals',
+    version: 'Used',
+    price: '75 LE',
+    sold_green: 'Stock'
+},
+{
+    img: 'https://m.media-amazon.com/images/I/81HWF4kC3DL._AC_UF894,1000_QL80_.jpg',
+    name: 'Transformers: Dark of the Moon ',
+    version: 'Used',
+    price: '75 LE',
+    sold_green: 'Stock'
+},
+{
+    img: 'https://m.media-amazon.com/images/I/81tpWc+sXTL.jpg',
+    name: 'Call Of Duty: Black Ops I',
+    version: 'Used',
+    price: '75 LE',
+    sold_green: 'Stock'
+},
+{
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqz89XYw_Ub15D-kLoe1gftcT0i71lV9ejxQ&s',
+    name: 'Call Of Duty: Black Ops II',
+    version: 'Used',
+    price: '100 LE',
+    sold_green: 'Stock'
+},
+{
+    img: 'https://m.media-amazon.com/images/I/81WiTYPbswL._AC_UF1000,1000_QL80_.jpg',
+    name: 'Far Cry 3',
+    version: 'Used',
+    price: '100 LE',
+    sold_green: 'Stock'
+},
+{
+    img: 'https://m.media-amazon.com/images/I/81X9aPJMidL._SL1500_.jpg',
+    name: 'GTA V',
+    version: 'Used',
+    price: '100 LE',
+    sold_green: 'Stock'
+},
+{
+    img: 'https://i.ebayimg.com/images/g/E98AAOSwE2pkKIot/s-l400.jpg',
+    name: 'Dragon Ball Z Ultimate Blast',
+    version: 'Used',
+    price: '100 LE',
+    sold_green: 'Stock'
+},
+{
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6c2238qwJCGpx3C0OTv_mVjIIFpOZuTDk1A&s',
+    name: 'WWE 2K17',
+    version: 'Used',
+    price: '100 LE',
+    sold_green: 'Stock'
+},
+{
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrImrBTcTtBmDU38TS21eQKQhJtr9vX-pYGw&s',
+    name: 'ESCAPE DEAD ISLAND',
+    version: 'Used',
+    price: '100 LE',
+    sold_green: 'Stock'
+},
 ]
 
 // funchtion CD
