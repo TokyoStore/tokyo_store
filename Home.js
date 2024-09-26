@@ -32,6 +32,11 @@ const Categorys = [{
     name : 'CDs',
     link : 'cd.html'
 },
+{
+    img : 'https://img.lazcdn.com/g/p/6487b0d19c4c9be20d494f9593e8f592.png_720x720q80.png',
+    name : 'PSN Gift Cards',
+    link : 'PSN Card.html'
+}
 ]
 
 // function categorys
