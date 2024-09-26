@@ -445,13 +445,13 @@ border-top: 1px solid rgba(255, 255, 255, .2);
     font-size: 32px;
 }
 .footer .icons{
-    font-size: 30px;
+    font-size: 37px;
 }
 .footer .icons .fa-brands{
-    margin: 0 15px 0 15px;
+    margin: 0 20px 0 20px;
 }
 .footer .icons .fa-location-dot{
-    margin: 0 15px 0 15px;
+    margin: 0 20px 0 20px;
 }
 .footer h2{
     color: #ffffff;
@@ -488,7 +488,15 @@ border-top: 1px solid rgba(255, 255, 255, .2);
         position: fixed;
         left: 0;
     }   
-    
+    .footer .icons{
+        font-size: 25px;
+    }
+    .footer .icons .fa-brands{
+        margin: 0 10px 0 10px;
+    }
+    .footer .icons .fa-location-dot{
+        margin: 0 10px 0 10px;
+    }
 }
 @media screen and (max-width:1000px) {
     .nivbar_mini{
